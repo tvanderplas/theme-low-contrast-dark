@@ -1,0 +1,17 @@
+{
+	"name": "theme-low-contrast-dark",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"version": "1.0.0",
+	"publisher": "vscode",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "Low Contrast Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/low-contrast-dark-color-theme.json"
+			}
+		]
+	}
+}
