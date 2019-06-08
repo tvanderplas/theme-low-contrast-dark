@@ -186,13 +186,13 @@
 
 		"button.background": "#214049",
 		"button.foreground": "#576870",
-		"button.hoverBackground": "#54737c",
+		"button.hoverBackground": "#40575e",
 
 	// Dropdown control
 	// A set of colors for all Dropdown widgets such as in the Integrated Terminal or the Output panel. Note that the Dropdown control is not used on macOS currently.
 	// drop down control
 
-		"dropdown.background": "#1c2224",
+		"dropdown.background": "#14181a",
 		// "dropdown.listBackground": "#800080",
 		"dropdown.border": "#576870",
 		"dropdown.foreground": "#576870",
@@ -201,7 +201,7 @@
 	// Colors for input controls such as in the Search view or the Find/Replace dialog.
 	// input control
 
-		"input.background": "#1c2224",
+		"input.background": "#14181a",
 		"input.border": "#576870",
 		"input.foreground": "#576870",
 		"input.placeholderForeground": "#576870",
@@ -221,13 +221,13 @@
 		// "scrollbar.shadow": "#800080",
 		"scrollbarSlider.activeBackground": "#214049",
 		"scrollbarSlider.background": "#214049",
-		"scrollbarSlider.hoverBackground": "#54737c",
+		"scrollbarSlider.hoverBackground": "#40575e",
 
 	// Badge
 	// Badges are small information labels, for example, search results count.
 
 		"badge.foreground": "#576870",
-		"badge.background": "#1c2224",
+		"badge.background": "#14181a",
 
 	// Progress bar
 
@@ -257,7 +257,7 @@
 	// Activity Bar
 	// The Activity Bar is displayed either on the far left or right of the workbench and allows fast switching between views of the Side Bar.
 
-		"activityBar.background": "#1c2224",
+		"activityBar.background": "#14181a",
 		// "activityBar.dropBackground": "#800080",
 		"activityBar.foreground": "#576870",
 		"activityBar.inactiveForeground": "#435056",
@@ -268,7 +268,7 @@
 	// Side Bar
 	// The Side Bar contains views like the Explorer and Search.
 
-		"sideBar.background": "#21282b",
+		"sideBar.background": "#181e20",
 		"sideBar.foreground": "#576870",
 		// "sideBar.border": "#800080",
 		// "sideBar.dropBackground": "#800080",
@@ -287,14 +287,14 @@
 		"editorGroupHeader.tabsBorder": "#576870",
 		// "editorGroup.emptyBackground": "#800080",
 		// "editorGroup.focusedEmptyBorder": "#800080",
-		"tab.activeBackground": "#232b2e",
+		"tab.activeBackground": "#1a2123",
 		"tab.activeForeground": "#576870",
 		// "tab.border": "#800080",
 		// "tab.activeBorder": "#800080",
 		// "tab.unfocusedActiveBorder": "#800080",
 		// "tab.activeBorderTop": "#800080",
 		// "tab.unfocusedActiveBorderTop": "#800080",
-		"tab.inactiveBackground": "#1d2325",
+		"tab.inactiveBackground": "#151a1b",
 		"tab.inactiveForeground": "#576870",
 		// "tab.unfocusedActiveForeground": "#800080",
 		// "tab.unfocusedInactiveForeground": "#800080",
@@ -312,7 +312,7 @@
 	// The most prominent editor colors are the token colors used for syntax highlighting and are based on the language grammar installed. These colors are defined by the Color Theme but can also be customized with the editor.tokenColorCustomizations setting. See Customizing a Color Theme for details on updating a Color Theme and the available token types.
 	// All other editor colors are listed here:
 
-		"editor.background": "#1d2325",
+		"editor.background": "#151a1b",
 		"editor.foreground": "#576870",
 		"editorLineNumber.foreground": "#576870",
 		"editorLineNumber.activeForeground": "#87a8af",
@@ -354,7 +354,7 @@
 	// The current line is typically shown as either background highlight or a border (not both).
 	// Line Highlight
 
-		"editor.lineHighlightBackground": "#252e30",
+		"editor.lineHighlightBackground": "#1d2425",
 		// "editor.lineHighlightBorder": "#800080",
 
 	// The link color is visible when clicking on a link.
@@ -514,10 +514,10 @@
 	// Status Bar colors
 	// The Status Bar is shown in the bottom of the workbench.
 
-		"statusBar.background": "#262d31",
+		"statusBar.background": "#1d2225",
 		"statusBar.foreground": "#576870",
 		// "statusBar.border": "#800080",
-		"statusBar.debuggingBackground": "#262d31",
+		"statusBar.debuggingBackground": "#1d2225",
 		"statusBar.debuggingForeground": "#576870",
 		// "statusBar.debuggingBorder": "#800080",
 		// "statusBar.noFolderForeground": "#800080",
@@ -530,9 +530,9 @@
 
 	// Title Bar colors
 
-		"titleBar.activeBackground": "#2a3337",
+		"titleBar.activeBackground": "#1f2628",
 		"titleBar.activeForeground": "#576870",
-		"titleBar.inactiveBackground": "#1d2325",
+		"titleBar.inactiveBackground": "#151a1b",
 		"titleBar.inactiveForeground": "#576870",
 		// "titleBar.border": "#800080",
 
